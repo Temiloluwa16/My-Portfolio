@@ -1,0 +1,50 @@
+.auto-layout-horizontal, .auto-layout-horizontal *{
+    display: fles;
+    flex-direction: row;
+    gap: 1500px;
+    align-items: center;
+    
+}
+.heading,
+.heading * {
+    box-sizing: border-box;
+}
+
+.heading {
+    position: absolute;
+    inset: 0;
+}
+
+.frontend-developer {
+    color: #ff408c;
+    text-align: left;
+    font: 700 80px/132% "Poppins", sans-serif;
+    position: relative;
+    left: 221px;
+    top: 323px;
+}
+
+.hi-i-m-manilla {
+    color: #3a3a3a;
+    text-align: left;
+    font: 400 36px/132% "Poppins", sans-serif;
+    position: absolute;
+    left: 221px;
+    top: 275px;
+}
+.hi-i-m-laura,
+.hi-i-m-laua * {
+    box-sizing: border-box;
+}
+
+.hi-i-m-laura {
+    color: #3a3a3a;
+    text-align: left;
+    font: 400 36px/132% "Poppins", sans-serif;
+    position: relative;
+}
+.frontend-developer,
+.frontend-developer * {
+    box-sizing: border-box;
+}
+
