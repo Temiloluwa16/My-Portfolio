@@ -15,33 +15,21 @@
     inset: 0;
 }
 
-.frontend-developer {
-    color: #ff408c;
-    text-align: left;
-    font: 700 80px/132% "Poppins", sans-serif;
-    position: relative;
-    left: 221px;
-    top: 323px;
+
+
+.hi-i-m-laura{
+    color: #3A3A3A ;
+    font-size: 36px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    line-height: 47.52px;
+    word-wrap: break-word;
+
 }
 
-.hi-i-m-laura, .hi-i-m-laura * {
-    box-sizing: border-box;
-}
-.hi-i-m-laura {
-    color: #3a3a3a;
-    text-align: center;
-    font: 400 36px/132% "Poppins", sans-serif;
-    position: relative;
-}
 
-:root {
-    --drop-shadow-box-shadow: 0px 55px 50px 0px rgba(0, 0, 0 0.07);
-}
 
-.frontend-developer,
-.frontend-developer * {
-    box-sizing: border-box;
-}
+
 
 .lb, .lb * {
     box-sizing: border-box;
@@ -57,4 +45,13 @@
 .lb-span2 {
     color:#3a3a3a;
     font: 700 48px "Poppins", sans-serif;
+}
+
+.tool{
+    color:#3A3A3A;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    line-height: 26.40px;
+    word-wrap: break-word;
 }
