@@ -24,27 +24,37 @@
     top: 323px;
 }
 
-.hi-i-m-manilla {
-    color: #3a3a3a;
-    text-align: left;
-    font: 400 36px/132% "Poppins", sans-serif;
-    position: absolute;
-    left: 221px;
-    top: 275px;
-}
-.hi-i-m-laura,
-.hi-i-m-laua * {
+.hi-i-m-laura, .hi-i-m-laura * {
     box-sizing: border-box;
 }
-
 .hi-i-m-laura {
     color: #3a3a3a;
-    text-align: left;
+    text-align: center;
     font: 400 36px/132% "Poppins", sans-serif;
     position: relative;
 }
+
+:root {
+    --drop-shadow-box-shadow: 0px 55px 50px 0px rgba(0, 0, 0 0.07);
+}
+
 .frontend-developer,
 .frontend-developer * {
     box-sizing: border-box;
 }
 
+.lb, .lb * {
+    box-sizing: border-box;
+}
+.lb {
+    text-align: left;
+    font: 700 48px "Poppins", sans-serif;
+}
+.lb-span {
+    color: #3a3a3a;
+    font:700 48px "Poppins", sans-serif;
+}
+.lb-span2 {
+    color:#3a3a3a;
+    font: 700 48px "Poppins", sans-serif;
+}
