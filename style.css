@@ -1,0 +1,45 @@
+.Heading {
+    width: 782px;
+    height: 223px;
+    left: 221px;
+    top: 275px;
+    position: absolute;
+}
+.DesignerFromCountryName {
+    left: opx;
+    top: 175px;
+    position: absolute;
+}
+.FrontendDeveloper {
+    left: 0px;
+    top: 48px;
+    position: absolute;
+    font-family: "Poppins", sans-serif;
+    color: #ff408c;
+    font-size: 80px;
+    line-height: 105.60px;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.HiIMLaura {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: #3a3a3a;
+    font-size: 36px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    line-height: 47.52px;
+    word-wrap: break-word;
+}
+
+.Image {
+    width: 558px;
+    height: 762.62px;
+    top: 226px;
+    left: 1134px;
+    position: absolute;
+}
+
+ 
